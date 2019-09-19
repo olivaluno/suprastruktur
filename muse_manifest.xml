@@ -1,0 +1,175 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="supra.com" resolutions="1x" timestamp="1568895304591">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="homepage.css" crc="3863719181" ref="homepage"/>
+    <file name="unbenannt-9.css" crc="1980148" ref="unbenannt-9"/>
+    <file name="unbenannt-8.css" crc="1980148" ref="unbenannt-8"/>
+    <file name="index.css" crc="3793314477" ref="index"/>
+    <file name="unbenannt-7.css" crc="1980148" ref="unbenannt-7"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="homepage:unbenannt-7:unbenannt-8:unbenannt-9:index"/>
+    <file name="museutils.js" crc="3803043152" ref="homepage:unbenannt-7:unbenannt-8:unbenannt-9:index"/>
+    <file name="whatinput.js" crc="86476730" ref="homepage:unbenannt-7:unbenannt-8:unbenannt-9:index"/>
+    <file name="museconfig.js" crc="380897831" ref="homepage:unbenannt-7:unbenannt-8:unbenannt-9:index"/>
+    <file name="webpro.js" crc="242022427" ref="homepage"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="homepage"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="homepage"/>
+    <file name="touchswipe.js" crc="4066113679" ref="homepage"/>
+    <file name="jquery.watch.js" crc="99325471" ref="homepage:unbenannt-7:unbenannt-8:unbenannt-9:index"/>
+    <file name="require.js" crc="4157109226" ref="homepage:unbenannt-7:unbenannt-8:unbenannt-9:index"/>
+  </folder>
+  <folder name="images">
+    <file name="schiffstation1.jpg" crc="3763943804" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="homepage"/>
+    <file name="schiffstation2.jpg" crc="4123035461" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="schiffstation3.jpg" crc="3907066012" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="schiffstation4.jpg" crc="469503965" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="schiffstation6.jpg" crc="3884795736" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="schiffstation7.jpg" crc="3889290010" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="homepage"/>
+    <file name="dokumentation ruffinihaus_1.jpg" crc="3877113565" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="dokumentation ruffinihaus_2.jpg" crc="4232778429" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="dokumentation ruffinihaus_3.jpg" crc="271148679" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="dokumentation ruffinihaus.jpg" crc="4119201628" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="column1.jpg" crc="4200371860" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="column2.jpg" crc="310571237" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="column3.jpg" crc="188945474" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="column4.jpg" crc="366094088" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="column5.jpg" crc="3852426451" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="column6.jpg" crc="475883323" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="what does your house look like_1.jpg" crc="3810373536" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="screen shot 2019-01-03 at 134229.jpg" crc="4286033714" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="what does your house look like_2 2.jpg" crc="198738259" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="basement print1.jpg" crc="457556385" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="basement print2.jpg" crc="425839665" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="basement scultpure1.jpg" crc="78493820" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="basement scultpure2.jpg" crc="4047155573" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="basement scultpure3.jpg" crc="487794767" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="deciduous1.jpg" crc="3811568913" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="screen shot 2019-01-03 at 133736.jpg" crc="514270202" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="deciduous2.jpg" crc="4256417796" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="screen shot 2019-01-03 at 133057.jpg" crc="19631799" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="screen shot 2019-01-03 at 133852.jpg" crc="147072032" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="deciduous3.jpg" crc="313896767" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="deciduous4.jpg" crc="97660462" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="cardboard1.jpg" crc="400319187" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="cardboard3.jpg" crc="2665136" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="cardboard4.jpg" crc="4047797509" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="cardboard5.jpg" crc="4203866633" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="cardboard6.jpg" crc="3775936024" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="cardboard8.jpg" crc="3877119328" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="cardboard9.jpg" crc="4246569725" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="cardboard11.jpg" crc="4026614142" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="cardboard12.jpg" crc="4067887560" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="cardboard13.jpg" crc="3826362871" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="sprungbrett0.jpg" crc="136366358" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="sprungbrett1.jpg" crc="372650760" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="sprungbrett2.jpg" crc="321918242" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="sprungbrett3.jpg" crc="3983179636" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="sprungbrett4.jpg" crc="3771423194" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="screen shot 2019-01-03 at 141938.png" crc="3899206136" seo="true" ref="homepage:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="u15351-4.png" crc="4148921477" ref="index"/>
+    <file name="u15355-4.png" crc="3840696717" ref="index"/>
+  </folder>
+  <file name="homepage.html" crc="4091424020" seo="true" mt="1546809973315" redirect="true"/>
+  <file name="unbenannt-7.html" crc="3856624601" seo="true" mt="1543174894907" redirect="false"/>
+  <file name="unbenannt-8.html" crc="4022311417" seo="true" mt="1543174894907" redirect="false"/>
+  <file name="unbenannt-9.html" crc="4063267750" seo="true" mt="1543174894907" redirect="false"/>
+  <file name="index.html" crc="4157839356" seo="true" mt="1546809338145" redirect="true"/>
+</manifest>
